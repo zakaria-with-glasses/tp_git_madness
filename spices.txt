@@ -1,4 +1,4 @@
 salt
 salt
 pepper
-pepper
+paprika
